@@ -1,4 +1,4 @@
-<img align="right" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
+<img align="left" src="https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,32">
 
 # 4Geeks Academy's Templates and Boilerplates
 
